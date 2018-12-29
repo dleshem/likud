@@ -14,7 +14,7 @@ import LikudClient from 'likud';
 const likud = new LikudClient();
 
 const accountDetails = await likud.getAccountDetails({
-  id: '90555' // Benjamin Netanyahu
+  id: '90555' // Benjamin "Bibi" Netanyahu
 });
 
 console.log(accountDetails);
