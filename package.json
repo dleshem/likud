@@ -1,6 +1,6 @@
 {
   "name": "likud",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JavaScript client for Israeli Likud party's membership API",
   "main": "dist/index.js",
   "scripts": {
